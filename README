@@ -3,3 +3,5 @@ Tests are not integrated with Tomcat.
 
 There are files missing so project will not compile.
 Maven lifecycle compilation is only successfull.
+
+The POM is located under the xmlEditor
